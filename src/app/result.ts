@@ -1,4 +1,4 @@
-import { GitHubUser } from './githubuser';
+import { GitHubUser } from "./githubuser";
 
 export interface Result{ 
 	items: GitHubUser[]; 
